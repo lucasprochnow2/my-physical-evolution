@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-physical-evolution/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/my-physical-evolution/static/js/main.84609b41.chunk.js",
+    "main.js.map": "/my-physical-evolution/static/js/main.84609b41.chunk.js.map",
+    "runtime-main.js": "/my-physical-evolution/static/js/runtime-main.8229ac23.js",
+    "runtime-main.js.map": "/my-physical-evolution/static/js/runtime-main.8229ac23.js.map",
+    "static/js/2.7edb5884.chunk.js": "/my-physical-evolution/static/js/2.7edb5884.chunk.js",
+    "static/js/2.7edb5884.chunk.js.map": "/my-physical-evolution/static/js/2.7edb5884.chunk.js.map",
+    "static/js/3.a359e37f.chunk.js": "/my-physical-evolution/static/js/3.a359e37f.chunk.js",
+    "static/js/3.a359e37f.chunk.js.map": "/my-physical-evolution/static/js/3.a359e37f.chunk.js.map",
+    "index.html": "/my-physical-evolution/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/my-physical-evolution/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.7edb5884.chunk.js.LICENSE.txt": "/my-physical-evolution/static/js/2.7edb5884.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/my-physical-evolution/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8229ac23.js",
+    "static/js/2.7edb5884.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.84609b41.chunk.js"
+  ]
+}
